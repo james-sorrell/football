@@ -12,13 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-
-
-
-
-
 from . import *
-
 
 def build_scenario(builder):
   builder.config().game_duration = 400
